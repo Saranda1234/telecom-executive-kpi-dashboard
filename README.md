@@ -54,7 +54,8 @@ Line chart tracking the sum of daily call minutes across the customer base,
 revealing usage patterns and peak activity periods.
 
 ### 5. Customer Service Calls vs Churn
-![Uploading image.png…]()
+<img width="460" height="247" alt="image" src="https://github.com/user-attachments/assets/12f6a615-05f4-464a-ab6f-adffc18ed515" />
+
 
 Donut chart showing the relationship between customer service
 call volume (Total: 5.1k) and churn behavior —
